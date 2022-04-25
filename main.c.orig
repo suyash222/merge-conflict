@@ -1,0 +1,20 @@
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+
+<<<<<<< HEAD
+feature1()
+{
+  //Sample Code for Feature 1
+Initial Function2()
+=======
+Initial Security()
+>>>>>>> Update main.c
+{
+ //Sample Code
+}
+
+}
